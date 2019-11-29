@@ -3,5 +3,8 @@
   "version": "1",
   "description": "Landing page for natours",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
 }
