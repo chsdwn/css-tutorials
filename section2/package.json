@@ -1,0 +1,7 @@
+{
+  "name": "natours",
+  "version": "1",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "license": "MIT"
+}
