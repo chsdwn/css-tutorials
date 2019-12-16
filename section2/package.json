@@ -9,5 +9,8 @@
   "license": "MIT",
   "devDependencies": {
     "node-sass": "^4.13.0"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
   }
 }
